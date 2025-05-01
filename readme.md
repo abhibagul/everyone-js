@@ -59,7 +59,9 @@ EveryoneJS is a lightweight, customizable accessibility solution that helps webs
 Add the following script tag to your website's HTML:
 
 ```html
-<script src="https://cdn.example.com/everyone.min.js"></script>
+<script src="https://abhibagul.github.io/everyone-js/everyone.js"></script>
+or
+<script src="https://abhibagul.github.io/everyone-js/everyone.min.js"></script>
 ```
 
 ## Configuration
@@ -74,7 +76,7 @@ You can customize EveryoneJS by adding a configuration object before loading the
     iconColor: "#ffffff",
   };
 </script>
-<script src="https://cdn.example.com/everyone.min.js"></script>
+<script src="https://abhibagul.github.io/everyone-js/everyone.min.js"></script>
 ```
 
 ## Browser Support
